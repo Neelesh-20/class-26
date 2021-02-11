@@ -49,6 +49,7 @@ function draw(){
     ground.display();
     pig1.display();
     log1.display();
+    console.log("log3");
 
     box3.display();
     box4.display();
